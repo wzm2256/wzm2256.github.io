@@ -1,3 +1,11 @@
+
+## How to retard science?
+
+« You could set up a foundation with an annual endowment of thirty million dollars. Research workers in need of funds could apply for grants, if they could make a convincing case. Have ten committees, each composed of twelve scientists, appointed to pass on these applications. Take the most active scientists out of the laboratory and make them members of these committees. …First of all, the best scientists would be removed from their laboratories and kept busy on committees passing on applications for funds. Secondly the scientific workers in need of funds would concentrate on problems which were considered promising and were pretty certain to lead to publishable results. …By going after the obvious, pretty soon science would dry out. Science would become something like a parlor game. …There would be fashions. Those who followed the fashions would get grants. Those who wouldn’t would not. »
+
+Leó Szilárd, The Mark Gable Foundation, (in The Voice of the Dolphins and Other Stories), 1961.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wzm2256/wzm2256.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
