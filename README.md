@@ -1,4 +1,8 @@
+---
+layout: default
+---
 
+## About me
 My research interest is to solve machine learning problems using mathematical theories. In particular, I’m interested in the following topics:
 - Generative models
 - Geometric deep learning in 3D space
