@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## About me 
 My research interest is to solve machine learning problems using mathematical theories. In particular, I’m interested in the following topics:
