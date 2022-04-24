@@ -1,16 +1,16 @@
 
-## About me 
+### About me 
 My research interest is to solve machine learning problems using mathematical theories. In particular, I’m interested in the following topics:
 - Generative models
 - Geometric deep learning in 3D space
 - Mathematical theories, including optimal transport and group representation
 
 
-## Project
+### Project
 
 
 
-## How to retard science?
+### How to retard science?
 
 ...You could set up a foundation with an annual endowment of thirty million dollars. Research workers in need of funds could apply for grants, if they could make a convincing case. Have ten committees, each composed of twelve scientists, appointed to pass on these applications...Also have about twenty prizes of one hundred thousand dollars each for the best scientific papers of the year.
 
